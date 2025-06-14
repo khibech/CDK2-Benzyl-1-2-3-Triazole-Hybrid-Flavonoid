@@ -1,0 +1,19 @@
+ & "C:\Program Files (x86)\The Scripps Research Institute\Vina\vina.exe" --receptor P.pdbqt --ligand lig1.pdbqt --config lig1.txt --log log1.txt --out output1.pdbqt
+
+ & "C:\Program Files (x86)\The Scripps Research Institute\Vina\vina.exe" --receptor P.pdbqt --ligand lig2.pdbqt --config lig2.txt --log log2.txt --out output2.pdbqt
+
+ & "C:\Program Files (x86)\The Scripps Research Institute\Vina\vina.exe" --receptor P.pdbqt --ligand lig3.pdbqt --config lig3.txt --log log3.txt --out output3.pdbqt
+
+ & "C:\Program Files (x86)\The Scripps Research Institute\Vina\vina.exe" --receptor P.pdbqt --ligand lig4.pdbqt --config lig4.txt --log log4.txt --out output4.pdbqt
+
+ & "C:\Program Files (x86)\The Scripps Research Institute\Vina\vina.exe" --receptor P.pdbqt --ligand lig5.pdbqt --config lig5.txt --log log5.txt --out output5.pdbqt
+
+ & "C:\Program Files (x86)\The Scripps Research Institute\Vina\vina.exe" --receptor P.pdbqt --ligand lig6.pdbqt --config lig6.txt --log log6.txt --out output6.pdbqt
+
+ & "C:\Program Files (x86)\The Scripps Research Institute\Vina\vina.exe" --receptor P.pdbqt --ligand lig7.pdbqt --config lig7.txt --log log7.txt --out output7.pdbqt
+
+ & "C:\Program Files (x86)\The Scripps Research Institute\Vina\vina.exe" --receptor P.pdbqt --ligand lig8.pdbqt --config lig8.txt --log log8.txt --out output8.pdbqt
+
+ & "C:\Program Files (x86)\The Scripps Research Institute\Vina\vina.exe" --receptor P.pdbqt --ligand lig9.pdbqt --config lig9.txt --log log9.txt --out output9.pdbqt
+
+ & "C:\Program Files (x86)\The Scripps Research Institute\Vina\vina.exe" --receptor P.pdbqt --ligand lig10.pdbqt --config lig10.txt --log log10.txt --out output10.pdbqt
